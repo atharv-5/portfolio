@@ -6,9 +6,8 @@
 </head>
 <body>
 
-  <h1>Your Name
-      Atharv Gehlod
-</h1>
+  <h1>Your Name</h1>
+  <p>Atharv Gehlod</p>
   <p>BTech CSE Student</p>
 
   <hr>
@@ -34,4 +33,5 @@
 
 </body>
 </html>
+
 
